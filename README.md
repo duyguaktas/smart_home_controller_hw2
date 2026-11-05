@@ -29,6 +29,7 @@ Flutter 3.47.9 • channel stable • [https://github.com/flutter/flutter.git](h
 Framework • revision (3.47.9)
 Engine • revision ...
 Tools • Dart 3.7.x • DevTools ...
+```
 
 How to Run the ProjectClone or Extract the Repository:
 Ensure all project files including lib/, models/, and pubspec.yaml are present.Install Dependencies:
